@@ -1,4 +1,2 @@
 #!/usr/bin/env bash
-# Display listening sockets with PID and program name
-
-sudo netstat -lntup
+netstat -lntup
